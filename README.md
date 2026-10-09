@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**moriusa/moriusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Frontend:** React, Next.js
+- **Backend:** Hono
+- **Database / ORM:** PostgreSQL, Drizzle ORM
+- **Infrastructure:** AWS, Terraform, Docker, Vercel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### App
+#### web
+- [あにめぐり（animeguri）](https://www.animeguri.app/)
+#### iOS
+- [うたともノート](https://apps.apple.com/us/app/うたともノート/id6799356951)
+- [Pico - 画像圧縮・変換](https://apps.apple.com/us/app/pico-画像圧縮-変換/id6803106033)
