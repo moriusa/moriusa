@@ -9,7 +9,7 @@
 
 ### App
 #### web
-- [つみほん](https://tsumihon.com/)
+- [つみほん](https://tsumihon.com/)<開発中>
 本の記録を残すことができるアプリ
 - [あにめぐり（animeguri）](https://www.animeguri.app/)
 聖地巡礼の記録を残すことができるアプリ
